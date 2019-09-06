@@ -1,1 +1,2 @@
 # IndegoBikeShare
+This was for a Java project that reads in Indego (Philadelphia bike share) station and bike trip data files, performs data analyses on the trips and stations and then generates a report with the results. I parsed the data files and made use of HashMaps for further analysis. Through the program I analyzed the use of the bike rentals, the start and end stations, the trip patterns, and the behaviors of Indego passholders. 
